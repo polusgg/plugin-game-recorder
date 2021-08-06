@@ -26,6 +26,6 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "@nodepolus/framework": "latest"
+    "@nodepolus/framework": "../../@nodepolus/framework"
   }
 }
